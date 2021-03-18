@@ -10,7 +10,7 @@ router.get('/', (req, res) => {
     res.json(categoryData))
 });
 
-router.get('/:id', async, (req, res) => {
+router.get('/:id', async (req, res) => {
   // find one category by its `id` value
   // be sure to include its associated Products
   try {
@@ -58,11 +58,11 @@ router.delete('/:id', (req, res) => {
   // delete a category by its `id` value
   Category.destroy({
     where: {
-      category_id: req.params.category_id,
+      id: req.params.id,
     },
   })
-    .then((categoryBook) => {
-      res.json(categoryBook);
+    .then((categoryData) => {
+      res.json(categoryData);
     })
     .catch((err) => res.json(err));
 });
