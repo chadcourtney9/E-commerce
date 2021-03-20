@@ -1,8 +1,5 @@
 # E-commerce
 
-
-
-# express-notes
 ### ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 ### This week I was tasked with creating a back end for an e-commerce site. The back end allows to you to do basic C.R.U.D. operations. Once you open up the live server, you will be able to view all of the categories, tags and products. Also you can update them or delete the ones you no longe need in the database. To view all of this information I personally use tablePlus but you can also use another sql program of your choosing! The application will allow you to see your changes that you have made in real time! There is a video walkthrough below that you can watch that will show you the steps of how to use this backend. I did accidentally put the seeding and the server start at the end of the video being the forgetful person that I am. 
