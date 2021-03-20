@@ -1,11 +1,11 @@
 # E-commerce
-# Employee-Tracker
+
 
 
 # express-notes
 ### ![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
-### This week I was tasked with creating a employee tracker handled with a CLI. This project allows you to to view your departments, employees and roles. It also allows you to add employees, roles and departments. Also, if you need to change a role for an employee you are able to adjust that role. 
+### This week I was tasked with creating a back end for an e-commerce site. The back end allows to you to do basic C.R.U.D. operations. Once you open up the live server, you will be able to view all of the categories, tags and products. Also you can update them or delete the ones you no longe need in the database. To view all of this information I personally use tablePlus but you can also use another sql program of your choosing! The application will allow you to see your changes that you have made in real time! There is a video walkthrough below that you can watch that will show you the steps of how to use this backend. I did accidentally put the seeding and the server start at the end of the video being the forgetful person that I am. 
 
 ## Table of Contents
 - [Video-Walkthrough](#video-walkthrough)
