@@ -16,6 +16,7 @@
 
 # Video Walkthrough
 See [video](https://youtu.be/ZRfTPYZle9k) here
+added shell clip [video](https://youtu.be/7jPwSgZybQU)
 
 # Contact
 [Linkedin](https://www.linkedin.com/in/chad-courtney-7951721ba/) ||
